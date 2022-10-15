@@ -10,8 +10,6 @@ def merge(arr, l, m, r):
 
 	for j in range(0, n2):
 		R[j] = arr[m + 1 + j]
-
-
 	i = 0	 
 	j = 0	 
 	k = l	
